@@ -7,8 +7,8 @@
 
 
  
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>POWER PLATFORM (Microsoft PowerBI, PowerApps, PowerAutomate, SharePoint and Forms)</b>
+  - [System to store records for the entire department](https://github.com/DumsaneThemba/RECORD-MANAGEMENT-APP)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/DumsaneThemba/PACKAGE-DELIVERY)
