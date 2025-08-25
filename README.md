@@ -17,7 +17,7 @@
 
   <b> Ardiuno Smart security project(Use of: Sensors vcoded with C++ and FireBase Database for remote control </b>
   
- - [JWipe (Disk Wiping Utility)](https://github.com/DumsaneThemba/Jwipe.powerShel)
+ - [SMART-SECURITY)](https://github.com/DumsaneThemba/Automation-SMART-SECURITY)
    
 <h2> 🤳 Connect with me:</h2>
 
