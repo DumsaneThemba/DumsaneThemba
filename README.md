@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
- 
-- <b>POWER PLATFORM (Microsoft PowerBI, PowerApps, PowerAutomate, SharePoint and Forms)</b>
+ - <b>POWER PLATFORM (Microsoft PowerBI, PowerApps, PowerAutomate, SharePoint and Forms)</b>
   - [System to store records for the entire department](https://github.com/DumsaneThemba/RECORD-MANAGEMENT-APP)
   
 - <b>Python</b>
@@ -15,8 +13,13 @@
  
   - [JWipe (Disk Wiping Utility)](https://github.com/DumsaneThemba/Jwipe.powerShel)
 
-<h2> 🤳 Connect with me:</h2>
+  <h2>👨‍💻 Automation Projects: Ardiuno/esp32</h2>
 
+  <b> Ardiuno Smart security project(Use of: Sensors vcoded with C++ and FireBase Database for remote control </b>
+  
+ - [JWipe (Disk Wiping Utility)](https://github.com/DumsaneThemba/Jwipe.powerShel)
+   
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGaM8sS31FeilF1Tgicg7NQ8W7pcvYNg0mkA&s" />][gmail]
