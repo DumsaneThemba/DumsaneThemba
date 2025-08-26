@@ -1,4 +1,5 @@
-<h1>Hi, I'm Dumsane! <br/><a href="https://github.com/DumsaneThemba">Programmer</a>, <a href="https://www.linkedin.com/in/feed/">Automation and Robotics Specialist</a></h1>
+<h1>Hi, I'm Dumsane! <br/><a href="https://github.com/DumsaneThemba">Programmer</a>, <a href="https://www.linkedin.com/in/feed/">Web Applications, Cybersecurity & Data-Driven Solutions 
+Results-driven Full-Stack Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
