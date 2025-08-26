@@ -27,7 +27,7 @@ Results-driven Full-Stack Developer</a></h1>
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGaM8sS31FeilF1Tgicg7NQ8W7pcvYNg0mkA&s" />lebo2747@gmail.com]
 
 [Gmail]: lebo2747@gmail.com
-[linkedin]: https://www.linkedin.com/feed/
+[linkedin]: https://www.linkedin.com/in/lebo-dumsane-649210285
 
 
 
